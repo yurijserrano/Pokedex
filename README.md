@@ -1,5 +1,5 @@
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/Pokedex"><img src="https://raw.githubusercontent.com/yurijserrano/Pokedex/4abb8d82e0c59ada3813fb399c1689603e9652d0/Logo/javascript.svg" alt="Javascript" /></a>
+	<a target="_blank" href="https://github.com/yurijserrano/Pokedex"><img src="https://raw.githubusercontent.com/yurijserrano/Pokedex/4abb8d82e0c59ada3813fb399c1689603e9652d0/Logo/javascript.svg" width="400" height="400" alt="Javascript" /></a>
 </p>
 
 > Pokedex is an application that list the pokemons of the anime :sunglasses:
